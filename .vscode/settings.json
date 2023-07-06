@@ -1,0 +1,28 @@
+{
+    "idf.espIdfPathWin": "E:\\Espressif\\v4.4.4\\esp-idf",
+    "idf.pythonBinPathWin": "E:\\Espressif\\python_env\\idf4.4_py3.11_env\\Scripts\\python.exe",
+    "idf.toolsPathWin": "E:/Espressif",
+    "idf.customExtraPaths": "E:\\Espressif\\tools\\xtensa-esp-elf-gdb\\11.2_20220823\\xtensa-esp-elf-gdb\\bin;E:\\Espressif\\tools\\riscv32-esp-elf-gdb\\11.2_20220823\\riscv32-esp-elf-gdb\\bin;E:\\Espressif\\tools\\xtensa-esp32-elf\\esp-2021r2-patch5-8.4.0\\xtensa-esp32-elf\\bin;E:\\Espressif\\tools\\xtensa-esp32s2-elf\\esp-2021r2-patch5-8.4.0\\xtensa-esp32s2-elf\\bin;E:\\Espressif\\tools\\xtensa-esp32s3-elf\\esp-2021r2-patch5-8.4.0\\xtensa-esp32s3-elf\\bin;E:\\Espressif\\tools\\riscv32-esp-elf\\esp-2021r2-patch5-8.4.0\\riscv32-esp-elf\\bin;E:\\Espressif\\tools\\esp32ulp-elf\\2.35_20220830\\esp32ulp-elf\\bin;E:\\Espressif\\tools\\cmake\\3.23.1\\bin;E:\\Espressif\\tools\\openocd-esp32\\v0.11.0-esp32-20221026\\openocd-esp32\\bin;E:\\Espressif\\tools\\ninja\\1.10.2;E:\\Espressif\\tools\\idf-exe\\1.0.3;E:\\Espressif\\tools\\ccache\\4.3\\ccache-4.3-windows-64;E:\\Espressif\\tools\\dfu-util\\0.9\\dfu-util-0.9-win64",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "E:\\Espressif\\tools\\openocd-esp32\\v0.11.0-esp32-20221026/openocd-esp32/share/openocd/scripts",
+        "IDF_CCACHE_ENABLE": "1"
+    },
+    "idf.gitPathWin": "E:\\Espressif\\tools\\idf-git\\2.39.2\\cmd\\git.exe",
+    "files.associations": {
+        "sdkconfig.h": "c",
+        "uni_property.h": "c",
+        "uni_hid_parser_xboxone.h": "c",
+        "array": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "esp_log.h": "c"
+    },
+    "idf.portWin": "COM9",
+    "C_Cpp.default.compilerPath": "e:\\Espressif\\tools\\xtensa-esp32-elf\\esp-2021r2-patch5-8.4.0\\xtensa-esp32-elf\\bin\\xtensa-esp32-elf-gcc.exe",
+    "idf.adapterTargetName": "esp32",
+    "idf.flashType": "UART"
+}
